@@ -12,8 +12,8 @@ var Style = StyleSheet.create({
     },
 
     optionsMainSpacing: {
-        width: 50,
-        height: 80,
+        width: 25,
+        height: 60,
 
     },
 
@@ -28,8 +28,6 @@ var Style = StyleSheet.create({
     rootContainer: {
       justifyContent: 'center'
     }
-
-
 
 
 })
